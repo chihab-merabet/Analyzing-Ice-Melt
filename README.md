@@ -1,7 +1,7 @@
 # Ice Melting Image Analysis in MATLAB
  function that segments the water
 ![Ice Melting](Figures.PNG)
-![Ice Melting](Color Threshold App.PNG)
+![Ice Melting](Color_Threshold_App.PNG)
 This repository contains MATLAB code for analyzing ice melting from images. The code processes images of ice melting and provides insights into the melting process.
 ## Table of Contents
 
